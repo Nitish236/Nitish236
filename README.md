@@ -24,7 +24,9 @@
 
 Hey there! I'm Nitish Verma passionate about backend development, system design, and improving user experiences through robust, innovative solutions.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitver20/)
+:mailbox:How to reach me
+
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitver20/)
 
 ---
 
@@ -64,5 +66,5 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[postgresql].svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/socketdotio].svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[nextdotjs].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker/#2496ED" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED" />&nbsp;
 </div>

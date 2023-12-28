@@ -11,6 +11,8 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Nitish236&style=flat-square&color=blue" alt="views"/> -->
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNitish236&label=Tourists&labelColor=%23a7b5b9&countColor=%232a2f33&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNitish236)
+
 <h1>
   Greetings, as our friend graces us with a visit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -47,11 +49,7 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nitish236&theme=gruvbox)](https://git.io/streak-stats)
 
-![Contribution stats](https://github-contributor-stats.vercel.app/api?username=Nitish236&combine_all_yearly_contributions=true&hide=B&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish236&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/Nitish236/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page_id&left_color=green&right_color=red)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish236&show_icons=true&theme=radical)
 

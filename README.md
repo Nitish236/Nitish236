@@ -28,16 +28,15 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitver20/)
 
----
-
-### :zap: Recent Activity
+<!-- --- -->
+<!-- # :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<!-- --- -->
 
-# Todoist Stats
+<!-- # Todoist Stats -->
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
@@ -48,7 +47,7 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nitish236&theme=gruvbox)](https://git.io/streak-stats)
 
-![Contribution stats](https://github-contributor-stats.vercel.app/api?username=Nitish236)
+![Contribution stats](https://github-contributor-stats.vercel.app/api?username=Nitish236&combine_all_yearly_contributions=true&hide=B&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish236&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/Nitish236/github-readme-stats)
 

@@ -37,7 +37,7 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 ---
 
-## Todoist Stats
+# Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
@@ -59,12 +59,14 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[nodedotjs].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[express].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[mongodb].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[postgresql].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/socketdotio].svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/[nextdotjs].svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/#000000" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/#010101" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/#000000" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED" />&nbsp;
 </div>

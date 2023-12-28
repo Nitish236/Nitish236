@@ -57,6 +57,7 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/#000000" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" />&nbsp;

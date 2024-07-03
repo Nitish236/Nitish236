@@ -30,41 +30,42 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitver20/)
 
-<!-- --- -->
-<!-- # :zap: Recent Activity -->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- --- -->
-
-<!-- # Todoist Stats -->
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
----
-
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nitish236&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitish236&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish236&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/Nitish236/github-readme-stats)
+![Top Langs](https://github-readme-stats-two-rouge-84.vercel.app/api/top-langs/?username=Nitish236&layout=compact&theme=holi&langs_count=8)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitish236&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-two-rouge-84.vercel.app/api?username=Nitish236&show_icons=true&theme=algolia)
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Techologies :
 
-<div>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/#000000/#FFFFFF" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/#FFFFFF/#010101/" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/#000000/#FFF" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED" />&nbsp;
-</div>
+### Languages
+
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](TypeScript)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](Java)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](C++)
+
+### Databases
+
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](Firebase)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](MongoDB)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](PostgreSQL)
+
+### Technologies
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](Node.js)
+[![Express](https://skillicons.dev/icons?i=express&theme=dark)](Express)
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](AWS)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](CSS)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](Next.js)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](Ubuntu)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](Git)
+
+## :hammer_and_wrench: Tools :
+
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](GitHub)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](Postman)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](VS-Code)

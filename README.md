@@ -44,14 +44,14 @@ Hey there! I'm Nitish Verma passionate about backend development, system design,
 
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](TypeScript)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](Python)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](Java)
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](C++)
 
 ### Databases
 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](PostgreSQL)
 [![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](Firebase)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](MongoDB)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](PostgreSQL)
 
 ### Technologies
 
